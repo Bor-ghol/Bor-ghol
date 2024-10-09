@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasmine
 - 👀 I’m interested in art, litterature & crochet
-- 🌱 I’m currently learning version control & Java script
+- 🌱 I’m currently learning version control, HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
