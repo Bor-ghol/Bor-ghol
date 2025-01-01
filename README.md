@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yasmine
 - 👀 I’m interested in art, litterature & crochet
-- 🌱 I’m currently learning version control, HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JS, HTML & CSS
+- 💞️ I’m looking to collaborate on projects related to these languages
+- 📫 Reach me through email: yesmine.borghol@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Borghol, my family name, means bulgur :) 
 
